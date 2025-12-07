@@ -39,8 +39,8 @@ Developer • Bot Creator • UI/UX Lover
 
 <div align="center">
   
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=itsmefreyaa&show_icons=true&theme=rose_pine&hide_border=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmefreyaa&layout=compact&theme=rose_pine&hide_border=true" />
+[![GitHub followers](https://img.shields.io/github/followers/itsmefreyaa?style=social)](https://github.com/itsmefreyaa)
+[![GitHub stars](https://img.shields.io/github/stars/itsmefreyaa?style=social)](https://github.com/itsmefreyaa)
 
 </div>
 
