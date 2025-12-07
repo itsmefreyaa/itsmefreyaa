@@ -1,17 +1,17 @@
 <div align="center">
 
-# 👋 Xin chào! Mình là Gấu Kẹo đây! 🐻🍬
+# Xin chào! Mình là Freya đây!
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer+;M%E1%BB%99t+Ng%C6%B0%E1%BB%9Di+Nghi%E1%BB%87n+Code+;Node.js+%2B+Express+%2B+Python;X%C3%A2y+D%E1%BB%B1ng+D%E1%BB%B1+%C3%81n+Tuy%E1%BB%87t+V%E1%BB%9Di" alt="Typing SVG" />
 
-[![GitHub followers](https://img.shields.io/github/followers/GauCandy?style=social)](https://github.com/GauCandy)
-[![GitHub stars](https://img.shields.io/github/stars/GauCandy?style=social)](https://github.com/GauCandy)
+[![GitHub followers](https://img.shields.io/github/followers/itsmefreyaa?style=social)](https://github.com/itsmefreyaa)
+[![GitHub stars](https://img.shields.io/github/stars/itsmefreyaa?style=social)](https://github.com/itsmefreyaa)
 
 </div>
 
 ---
 
-## 🐻 Ồ, Con Gấu Này Có Skill Gì Hay Nhỉ?
+## 🐻 Ồ, Freya Này Có Skill Gì Hay Nhỉ?
 
 > *"Cuộc sống ngọt ngào như kẹo khi bạn code bằng đam mê!"* 🍬✨
 
