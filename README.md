@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/6M7Z5hF.jpeg" width="100%" style="border-radius: 12px;" />
+  <img src="https://i.pinimg.com/originals/1c/af/c3/1cafc39897974323e73cf17d83b6ff8c.gif" width="100%" style="border-radius: 12px;" />
 </p>
 
 <h1 align="center">🌸 itsmeFreyaa — Developer & Bot Creator</h1>
