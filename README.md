@@ -2,7 +2,7 @@
 
 # 👋 Xin chào! Mình là Gấu Kẹo đây! 🐻🍬
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Full-stack+Developer+%F0%9F%9A%80;M%E1%BB%99t+con+g%E1%BA%A5u+y%C3%AAu+code!+%F0%9F%90%BB%F0%9F%8D%AC;Node.js+%2B+Express+%2B+MySQL+%E2%9A%A1;X%C3%A2y+d%E1%BB%B1ng+d%E1%BB%B1+%C3%A1n+tuy%E1%BB%87t+v%E1%BB%9Di!+%E2%9C%A8;Lu%C3%B4n+h%E1%BB%8Dc+h%E1%BB%8Fi+v%C3%A0+ph%C3%A1t+tri%E1%BB%83n+%F0%9F%8C%B1" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer+;M%E1%BB%99t+Ng%C6%B0%E1%BB%9Di+Nghi%E1%BB%87n+Code+;Node.js+%2B+Express+%2B+Python;X%C3%A2y+D%E1%BB%B1ng+D%E1%BB%B1+%C3%81n+Tuy%E1%BB%87t+V%E1%BB%9Di" alt="Typing SVG" />
 
 [![GitHub followers](https://img.shields.io/github/followers/GauCandy?style=social)](https://github.com/GauCandy)
 [![GitHub stars](https://img.shields.io/github/stars/GauCandy?style=social)](https://github.com/GauCandy)
