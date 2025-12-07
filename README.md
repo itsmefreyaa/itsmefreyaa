@@ -2,8 +2,10 @@
 
 # 🌸 Hello, I'm Freya! ✨  
 Developer • Bot Creator • UI/UX Lover  
+
 [![GitHub followers](https://img.shields.io/github/followers/itsmefreyaa?style=social)](https://github.com/itsmefreyaa)
 [![GitHub stars](https://img.shields.io/github/stars/itsmefreyaa?style=social)](https://github.com/itsmefreyaa)
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7A8D8&center=true&vCenter=true&width=435&lines=Full+Stack+Dev;Discord+Bot+Developer;Node.js+%7C+React+%7C+Python;Always+learning+new+things+%E2%9C%A8" />
 
 </div>
